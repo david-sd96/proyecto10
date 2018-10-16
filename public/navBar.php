@@ -7,7 +7,7 @@
         echo '<a class="nav-item nav-link" href="logout.php">Cerrar sesión</a>';
       } else { ?>
         <a class="nav-item nav-link" href="login.php">Iniciar sesión</a>
-        <a class="nav-item nav-link" href="formulario.php">Registrarse</a>
+        <a class="nav-item nav-link" href="registro.php">Registrarse</a>
       <?php } ?>
     </nav>
   </div>
