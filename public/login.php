@@ -19,9 +19,10 @@
           <input type="password" class="form-control" id="passwd" placeholder="Contraseña">
         </div>
       </div>
+      <button type="submit" class="btn" name="button">Enviar</button>
     </form>
-    <script src="../js/jquery-3.3.1.min.js"></script>
-    <script src="../js/bootstrap.min.js"></script>
-    <script src="../js/popper.js"></script>
+    <script src="/js/jquery-3.3.1.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/popper.js"></script>
   </body>
 </html>
